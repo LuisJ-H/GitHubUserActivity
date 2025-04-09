@@ -21,6 +21,6 @@ For example:
 ```bash
 java GitHubActivity LuisJ-H
 ```
-```bash
+```
 java GitHubActivity LuisJ-H bruh bruh
-`
+
