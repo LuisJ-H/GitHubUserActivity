@@ -1,6 +1,6 @@
 # GitHubActivity
 [GitHubUserActivity](https://github.com/LuisJ-H/GitHubUserActivity) is a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal.  
-Challenge from [roadmap.sh](https://roadmap.sh/)
+Challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity))
 
 # How to run
 Clone the repository and run the following command:
