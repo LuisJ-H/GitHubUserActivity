@@ -5,8 +5,19 @@ Challenge from [roadmap.sh](https://roadmap.sh/)
 # How to run
 Clone the repository and run the following command:
 
-```bash
+```bash'
 git clone https://github.com/LuisJ-H/GitHubUserActivity.git
+```
 
+After cloning, navigate into the project directory and run the following command to list the activities of a user:
+
+```bash
 # Run the program with a username as an argument
 java GitHubActivity <username>
+```
+
+For example:
+
+```bash
+java GitHubActivity LuisJ-H
+```
