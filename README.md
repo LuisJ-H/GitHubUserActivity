@@ -7,3 +7,6 @@ Clone the repository and run the following command:
 
 ```bash
 git clone https://github.com/LuisJ-H/GitHubUserActivity.git
+
+# Run the program with a username as an argument
+java GitHubActivity <username>
