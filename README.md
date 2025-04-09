@@ -13,7 +13,7 @@ After cloning, navigate into the project directory and run the following command
 
 ```bash
 # Run the program with a username as an argument
-java GitHubActivity <username>
+java GitHubUserActivity <username>
 ```
 
 For example:
