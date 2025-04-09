@@ -22,5 +22,5 @@ For example:
 java GitHubActivity LuisJ-H
 ```
 ```bash
-bruh
+java GitHubActivity LuisJ-H bruh bruh
 `
